@@ -1,0 +1,26 @@
+mkdir "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images" 2>nul
+
+copy "C:\Users\user\Documents\CrispyCrabRoll.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\crispy-crab.jpg"
+
+copy "C:\Users\user\Documents\CaliforniaCrabRoll.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\california-crab.jpg"
+
+copy "C:\Users\user\Documents\BakedCrabRoll.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\baked-crab.jpg"
+
+copy "C:\Users\user\Documents\CrabCheeseRoll.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\crab-cheese.jpg"
+
+copy "C:\Users\user\Documents\CrabAvocadoRoll.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\crab-cheese.jpg"
+copy "C:\Users\user\Documents\PremiumCrabPlatter.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\mini-platter.jpg"
+
+
+copy "C:\Users\user\Documents\PremiumCrabPlatter.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\mini-platter.jpg"
+copy "C:\Users\user\Documents\MiniCrabPlatter.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\mini-platter.jpg"
+
+
+copy "C:\Users\user\Documents\SpicyCrabRoll.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\spicy-crab.jpg"
+
+copy "C:\Users\user\Documents\CaliforniaCrabRoll.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\crab-avocado.jpg"
+
+copy "C:\Users\user\Documents\FamilyCrabPlatter.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\premium-platter.jpg"
+
+copy "C:\Users\user\Documents\SushiCrabCake.jpeg" "C:\Users\user\Desktop\SushiRestaurant_fixed\SushiRestaurant\Client\public\images\party-boat.jpg"
+
